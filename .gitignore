@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/Phone Book/task/build/
+/Phone Book/task/out/
+/Phone Book/task/out/production/classes/
+/Problems/Removing/out/
+/Problems/Removing/out/production/classes/
+/Problems/Searching in a descending sorted array/out/
+/Problems/Searching in a descending sorted array/out/production/classes/
+/Problems/Sum array elements greater than a value/out/
+/Problems/Sum array elements greater than a value/out/production/classes/
+/Problems/Swaps/out/
+/Problems/Swaps/out/production/classes/
+/Problems/The angle between vectors/out/
+/Problems/The angle between vectors/out/production/classes/
+/Problems/The first occurrence in the subarray/out/
+/Problems/The first occurrence in the subarray/out/production/classes/
+/Problems/The index of the last occurrence/out/
+/Problems/The index of the last occurrence/out/production/classes/
